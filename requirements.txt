@@ -1,0 +1,15 @@
+openai==0.28.1
+pypdf==4.2.0
+chromadb
+langchain==0.1.16
+tiktoken==0.6.0
+streamlit-extras==0.4.2
+PyPDF2>=3.0.1
+requests==2.31.0
+sentence-transformers
+BCEmbedding==0.1.1
+faiss-cpu==1.8.0
+streamlit==1.33.0
+python-dotenv==1.0.1
+numpy==1.26.4
+langchain-community
